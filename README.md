@@ -4,8 +4,8 @@
 
 <h4>I'm a creative Frontend Developer and masters student from the UK, with a passion for EdTech.</h4>
 
-- 🌱 Currently learning: TypeScript & PHP
-- 🔭 Working on: Building an accessible e-commerce site
+- 🌱 Currently learning: TypeScript
+- 🔭 Working on: Building an accessible inventory site for sewists
 - ⚡ Fun fact: I'm a Tottenham Hotspur fan ⚽
 
 ## My Skills 🧠
