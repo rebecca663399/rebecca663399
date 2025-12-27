@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-<h4>I'm a creative Front-end Developer from the UK, with a passion for EdTech and E-commerce.</h4>
+<h4>I'm a creative Frontend Developer and masters student from the UK, with a passion for EdTech.</h4>
 
 - 🌱 Currently learning: TypeScript & PHP
 - 🔭 Working on: Building an accessible e-commerce site
